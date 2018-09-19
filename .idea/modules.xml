@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huimei.iml" filepath="$PROJECT_DIR$/huimei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huimei-common-service-facade/huimei-common-service-facade.iml" filepath="$PROJECT_DIR$/huimei-common-service-facade/huimei-common-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huimei-user/huimei-user.iml" filepath="$PROJECT_DIR$/huimei-user/huimei-user.iml" />
+    </modules>
+  </component>
+</project>
